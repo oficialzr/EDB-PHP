@@ -1,0 +1,74 @@
+Installing Apache HTTP 2.0 server with
+ DomainName =    edb.tbm.ru
+ ServerName =    edb.tbm.ru
+ ServerAdmin =   al.xakumob@gmail.com
+ ServerPort =    80
+ ServerSslPort = 80
+ ServerRoot =    C:/www
+Rewrote C:/www/conf/original/extra/httpd-autoindex.conf.in
+ to C:/www/conf/original/extra/httpd-autoindex.conf
+Successfully removed C:\www\conf\original\extra\httpd-autoindex.conf.in
+Rewrote C:/www/conf/original/extra/httpd-vhosts.conf.in
+ to C:/www/conf/original/extra/httpd-vhosts.conf
+Successfully removed C:\www\conf\original\extra\httpd-vhosts.conf.in
+Rewrote C:/www/conf/original/extra/httpd-default.conf.in
+ to C:/www/conf/original/extra/httpd-default.conf
+Successfully removed C:\www\conf\original\extra\httpd-default.conf.in
+Rewrote C:/www/conf/original/extra/httpd-manual.conf.in
+ to C:/www/conf/original/extra/httpd-manual.conf
+Successfully removed C:\www\conf\original\extra\httpd-manual.conf.in
+Rewrote C:/www/conf/original/extra/httpd-mpm.conf.in
+ to C:/www/conf/original/extra/httpd-mpm.conf
+Successfully removed C:\www\conf\original\extra\httpd-mpm.conf.in
+Rewrote C:/www/conf/original/extra/httpd-info.conf.in
+ to C:/www/conf/original/extra/httpd-info.conf
+Successfully removed C:\www\conf\original\extra\httpd-info.conf.in
+Rewrote C:/www/conf/original/extra/httpd-dav.conf.in
+ to C:/www/conf/original/extra/httpd-dav.conf
+Successfully removed C:\www\conf\original\extra\httpd-dav.conf.in
+Rewrote C:/www/conf/original/extra/httpd-languages.conf.in
+ to C:/www/conf/original/extra/httpd-languages.conf
+Successfully removed C:\www\conf\original\extra\httpd-languages.conf.in
+Rewrote C:/www/conf/original/httpd.conf.in
+ to C:/www/conf/original/httpd.conf
+Successfully removed C:\www\conf\original\httpd.conf.in
+Rewrote C:/www/conf/original/extra/httpd-userdir.conf.in
+ to C:/www/conf/original/extra/httpd-userdir.conf
+Successfully removed C:\www\conf\original\extra\httpd-userdir.conf.in
+Rewrote C:/www/conf/original/extra/httpd-ssl.conf.in
+ to C:/www/conf/original/extra/httpd-ssl.conf
+Successfully removed C:\www\conf\original\extra\httpd-ssl.conf.in
+Rewrote C:/www/conf/original/extra/httpd-multilang-errordoc.conf.in
+ to C:/www/conf/original/extra/httpd-multilang-errordoc.conf
+Successfully removed C:\www\conf\original\extra\httpd-multilang-errordoc.conf.in
+Duplicated C:/www/conf/original/magic
+ to C:/www/conf/magic
+Duplicated C:/www/conf/original/extra/httpd-autoindex.conf
+ to C:/www/conf/extra/httpd-autoindex.conf
+Duplicated C:/www/conf/original/extra/httpd-vhosts.conf
+ to C:/www/conf/extra/httpd-vhosts.conf
+Duplicated C:/www/conf/original/extra/httpd-default.conf
+ to C:/www/conf/extra/httpd-default.conf
+Duplicated C:/www/conf/original/mime.types
+ to C:/www/conf/mime.types
+Duplicated C:/www/conf/original/charset.conv
+ to C:/www/conf/charset.conv
+Duplicated C:/www/conf/original/extra/httpd-manual.conf
+ to C:/www/conf/extra/httpd-manual.conf
+Duplicated C:/www/conf/original/extra/httpd-mpm.conf
+ to C:/www/conf/extra/httpd-mpm.conf
+Duplicated C:/www/conf/original/extra/httpd-info.conf
+ to C:/www/conf/extra/httpd-info.conf
+Duplicated C:/www/conf/original/extra/httpd-dav.conf
+ to C:/www/conf/extra/httpd-dav.conf
+Duplicated C:/www/conf/original/extra/httpd-languages.conf
+ to C:/www/conf/extra/httpd-languages.conf
+Duplicated C:/www/conf/original/httpd.conf
+ to C:/www/conf/httpd.conf
+Duplicated C:/www/conf/original/extra/httpd-userdir.conf
+ to C:/www/conf/extra/httpd-userdir.conf
+Duplicated C:/www/conf/original/extra/httpd-ssl.conf
+ to C:/www/conf/extra/httpd-ssl.conf
+Duplicated C:/www/conf/original/extra/httpd-multilang-errordoc.conf
+ to C:/www/conf/extra/httpd-multilang-errordoc.conf
+Successfully removed C:\www\conf\original\installwinconf.awk
